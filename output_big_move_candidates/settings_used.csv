@@ -1,0 +1,6 @@
+﻿setting,value
+input_train_file,output_tw_stock_features_v3_ex_right_or_split\train_2018_2025.csv
+forecast_horizon_trading_days,3
+bullish_threshold,0.05
+bearish_threshold,-0.05
+exclude_future_event_window,True

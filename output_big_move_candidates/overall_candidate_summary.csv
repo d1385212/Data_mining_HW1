@@ -1,0 +1,10 @@
+﻿metric,value
+total_labeled_days,89780.0
+bullish_count,8099.0
+bearish_count,6662.0
+neutral_count,75019.0
+bullish_rate_pct,9.020940075740699
+bearish_rate_pct,7.420360882156382
+neutral_rate_pct,83.55869904210292
+mean_future_return_3d_pct,0.23998600396479852
+median_future_return_3d_pct,0.0
