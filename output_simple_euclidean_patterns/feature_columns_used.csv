@@ -1,0 +1,11 @@
+﻿feature_name
+upper_shadow_pct
+lower_shadow_pct
+body_pct
+prev_upper_shadow_pct
+prev_lower_shadow_pct
+prev_body_pct
+open_pattern_pct
+close_pattern_pct
+volume_vs_ma5_ratio
+trend_5d_pct

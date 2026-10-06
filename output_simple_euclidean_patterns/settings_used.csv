@@ -1,0 +1,12 @@
+﻿setting,value
+input_file,output_big_move_candidates\train_with_future_return_3d.csv
+forecast_horizon,3
+bullish_threshold,0.05
+bearish_threshold,-0.05
+number_of_seed_patterns_per_direction,20
+top_k_similar_cases,30
+cooldown_trading_days,5
+min_frequency,10
+min_bullish_hit_rate,0.2
+min_bearish_hit_rate,0.2
+top_n_patterns,10

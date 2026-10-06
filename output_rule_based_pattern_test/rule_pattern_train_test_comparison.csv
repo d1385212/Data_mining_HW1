@@ -1,0 +1,7 @@
+﻿pattern_column,pattern_name,expected_direction,rule_description,train_frequency,train_expected_hit_rate_pct,train_expected_lift,train_mean_future_return_3d_pct,train_direction_is_consistent,test_frequency,test_expected_hit_rate_pct,test_expected_lift,test_mean_future_return_3d_pct,test_direction_is_consistent
+pattern_high_volume_upper_black,高檔爆量長上影黑K,bearish,前五日上漲、爆量、長上影，且當日收黑或平盤,82,15.853658536585366,2.14068501039951,-0.015538915145246732,True,19,26.31578947368421,1.8402044436935032,1.4756933233418517,False
+pattern_high_volume_long_upper,高檔爆量長上影,bearish,前五日上漲至少 3%，當日爆量且上影線至少 2%,205,13.170731707317074,1.778415239408824,0.574885156578222,False,38,23.684210526315788,1.656183999324153,1.933366145642484,False
+pattern_uptrend_pullback_lower_shadow,上升趨勢量縮回檔長下影,bullish,前五日上漲、量縮回檔、黑K且有長下影,215,20.0,2.2228274325328052,0.7573143321262605,True,90,31.11111111111111,1.6011288311347378,1.966330809790386,True
+pattern_volume_big_red,爆量大紅K,bullish,實體紅K至少 2%，當日量至少約為五日均量 2 倍,1367,17.922457937088517,1.9919265580487828,0.8434284978298758,True,149,30.201342281879196,1.5543077099941727,2.130149247209178,True
+pattern_volume_big_black,爆量大黑K,bearish,實體黑K至少 -2%，當日量至少約為五日均量 2 倍,528,10.606060606060606,1.4321132820155231,0.16366146801273196,False,50,22.0,1.5384109149277687,1.9490500898898988,False
+pattern_long_lower_reversal,下跌後長下影止跌紅K,bullish,前五日下跌，長下影且當日收紅,671,23.546944858420268,2.617039749181693,0.7719354549784305,True,176,28.97727272727273,1.4913111475057725,1.300609286260875,True

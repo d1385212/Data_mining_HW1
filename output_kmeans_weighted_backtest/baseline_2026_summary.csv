@@ -1,0 +1,5 @@
+﻿metric,value
+test_total_samples,8713.0
+baseline_bullish_rate_pct,19.430735682313784
+baseline_bearish_rate_pct,14.300470561230346
+baseline_mean_future_return_3d_pct,0.9246160388491665

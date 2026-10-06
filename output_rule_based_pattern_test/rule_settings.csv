@@ -1,0 +1,10 @@
+﻿setting,value
+forecast_horizon,3.0
+bullish_threshold,0.05
+bearish_threshold,-0.05
+big_body_pct,2.0
+volume_surge_ratio,0.5
+volume_contraction_ratio,-0.3
+long_shadow_pct,2.0
+uptrend_5d_pct,3.0
+minimum_reliable_frequency,10.0

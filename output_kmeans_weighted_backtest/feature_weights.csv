@@ -1,0 +1,11 @@
+﻿feature_name,weight
+upper_shadow_pct,1.0
+lower_shadow_pct,1.0
+body_pct,2.0
+prev_upper_shadow_pct,1.0
+prev_lower_shadow_pct,1.0
+prev_body_pct,1.0
+open_pattern_pct,1.0
+close_pattern_pct,1.0
+volume_vs_ma5_ratio,1.0
+trend_5d_pct,2.0

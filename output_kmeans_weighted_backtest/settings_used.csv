@@ -1,0 +1,11 @@
+﻿setting,value
+train_file,output_big_move_candidates\train_with_future_return_3d.csv
+test_file,output_tw_stock_features_v3_ex_right_or_split\test_2026.csv
+forecast_horizon,3
+bullish_threshold,0.05
+bearish_threshold,-0.05
+n_bullish_clusters,10
+n_bearish_clusters,10
+min_test_frequency,10
+kmeans_n_init,30
+random_state,42

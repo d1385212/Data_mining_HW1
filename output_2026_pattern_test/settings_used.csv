@@ -1,0 +1,12 @@
+﻿setting,value
+train_file,output_tw_stock_features_v3_ex_right_or_split\train_2018_2025.csv
+test_file,output_tw_stock_features_v3_ex_right_or_split\test_2026.csv
+bullish_top_file,output_simple_euclidean_patterns\top10_bullish_patterns.csv
+bearish_top_file,output_simple_euclidean_patterns\top10_bearish_patterns.csv
+forecast_horizon,3
+bullish_threshold,0.05
+bearish_threshold,-0.05
+top_k_train_similar_cases,30
+top_k_test_signals_per_pattern,30
+min_test_similarity_floor,0.2
+cooldown_trading_days,5
